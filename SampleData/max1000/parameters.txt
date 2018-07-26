@@ -1,0 +1,16 @@
+nwells = 24
+L = 5
+max_no_drivers = 5
+gama = 0.001000
+diff = 1.200000
+max_growth_rate = 4.000000
+tmax = 72.000000
+init_bact = 1000.000000
+uni_antibiotic = 0.000000
+max_antibiotic = 1000.000000
+MIC_WT = 32.000000
+hole_width = 1.500000, hole_depth = 3.750000
+well_width = 3.250000, well_depth = 11.000000
+Parameters for cipro-dep mutation rate:
+X = 15.000000, Y = 1.500000, max_increase = 200
+P_gyrA1 = 0.001000, P_marR = 0.010000
