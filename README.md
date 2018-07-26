@@ -2,7 +2,7 @@
 Code related to a project investigating the evolution of antibiotic resistance conducted at Edinburgh University, 
 2016, with Bartek Waclaw and Rosalind Allen.
 
-C++/Mathematica code originally written by Bartek and developed by me. <br/>
+C++ agent based simulations originally written by Bartek and developed by me. <br/>
 Java/Python simulations and data analysis scripts written by me.
 
 <br/>
